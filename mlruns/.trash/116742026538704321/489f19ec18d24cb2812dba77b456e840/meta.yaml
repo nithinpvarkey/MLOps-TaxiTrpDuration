@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/489f19ec18d24cb2812dba77b456e840/artifacts
+deleted_time: 1727088480202
+end_time: null
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 489f19ec18d24cb2812dba77b456e840
+run_name: colorful-seal-878
+run_uuid: 489f19ec18d24cb2812dba77b456e840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725439797165
+status: 1
+tags: []
+user_id: codespace

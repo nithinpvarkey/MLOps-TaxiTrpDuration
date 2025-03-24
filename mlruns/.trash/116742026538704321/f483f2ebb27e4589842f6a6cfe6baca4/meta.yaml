@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/f483f2ebb27e4589842f6a6cfe6baca4/artifacts
+deleted_time: 1727088480202
+end_time: 1725439573227
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: f483f2ebb27e4589842f6a6cfe6baca4
+run_name: suave-stoat-423
+run_uuid: f483f2ebb27e4589842f6a6cfe6baca4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725439470031
+status: 3
+tags: []
+user_id: codespace

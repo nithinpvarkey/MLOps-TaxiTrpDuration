@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/4693e3106bd7455f8862a98c04d2afb8/artifacts
+deleted_time: 1727088480202
+end_time: 1727088226854
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 4693e3106bd7455f8862a98c04d2afb8
+run_name: carefree-ox-625
+run_uuid: 4693e3106bd7455f8862a98c04d2afb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727082301307
+status: 3
+tags: []
+user_id: codespace

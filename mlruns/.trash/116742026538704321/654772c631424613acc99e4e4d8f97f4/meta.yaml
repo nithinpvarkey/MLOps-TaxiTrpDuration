@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/654772c631424613acc99e4e4d8f97f4/artifacts
+deleted_time: 1727088480202
+end_time: 1725439985786
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 654772c631424613acc99e4e4d8f97f4
+run_name: bouncy-skink-635
+run_uuid: 654772c631424613acc99e4e4d8f97f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725439985743
+status: 3
+tags: []
+user_id: codespace

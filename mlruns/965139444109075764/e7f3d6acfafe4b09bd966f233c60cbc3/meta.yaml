@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/e7f3d6acfafe4b09bd966f233c60cbc3/artifacts
+end_time: 1728978465835
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: e7f3d6acfafe4b09bd966f233c60cbc3
+run_name: monumental-crow-759
+run_uuid: e7f3d6acfafe4b09bd966f233c60cbc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728978453613
+status: 3
+tags: []
+user_id: codespace

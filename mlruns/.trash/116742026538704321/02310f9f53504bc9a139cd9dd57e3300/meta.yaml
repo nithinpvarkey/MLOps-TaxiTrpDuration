@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/02310f9f53504bc9a139cd9dd57e3300/artifacts
+deleted_time: 1727088480202
+end_time: 1725436497348
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 02310f9f53504bc9a139cd9dd57e3300
+run_name: respected-croc-761
+run_uuid: 02310f9f53504bc9a139cd9dd57e3300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725436497308
+status: 3
+tags: []
+user_id: codespace

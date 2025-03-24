@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/db5c0797f364450181db4687d246ff08/artifacts
+end_time: 1728641503754
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: db5c0797f364450181db4687d246ff08
+run_name: rambunctious-hog-450
+run_uuid: db5c0797f364450181db4687d246ff08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641497727
+status: 3
+tags: []
+user_id: codespace

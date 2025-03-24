@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/8e7f5be735ff48a389d629c12a80ba30/artifacts
+deleted_time: 1727088480202
+end_time: 1725439982405
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 8e7f5be735ff48a389d629c12a80ba30
+run_name: chill-calf-306
+run_uuid: 8e7f5be735ff48a389d629c12a80ba30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725439946101
+status: 3
+tags: []
+user_id: codespace

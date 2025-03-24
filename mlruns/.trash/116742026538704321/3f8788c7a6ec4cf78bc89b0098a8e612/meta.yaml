@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/3f8788c7a6ec4cf78bc89b0098a8e612/artifacts
+deleted_time: 1727088480202
+end_time: 1725616265221
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 3f8788c7a6ec4cf78bc89b0098a8e612
+run_name: monumental-snake-894
+run_uuid: 3f8788c7a6ec4cf78bc89b0098a8e612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725616250434
+status: 3
+tags: []
+user_id: codespace

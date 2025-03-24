@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/75512888aa0a4cae933ec4e04804cd25/artifacts
+deleted_time: 1727088480202
+end_time: 1725439794782
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 75512888aa0a4cae933ec4e04804cd25
+run_name: amazing-ram-971
+run_uuid: 75512888aa0a4cae933ec4e04804cd25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725439788545
+status: 3
+tags: []
+user_id: codespace

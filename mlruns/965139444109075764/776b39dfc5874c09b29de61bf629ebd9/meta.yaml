@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/776b39dfc5874c09b29de61bf629ebd9/artifacts
+end_time: 1728641432173
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: 776b39dfc5874c09b29de61bf629ebd9
+run_name: mysterious-horse-957
+run_uuid: 776b39dfc5874c09b29de61bf629ebd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641390379
+status: 3
+tags: []
+user_id: codespace

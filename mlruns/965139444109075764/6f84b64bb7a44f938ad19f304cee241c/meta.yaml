@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/6f84b64bb7a44f938ad19f304cee241c/artifacts
+end_time: 1728907148803
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: 6f84b64bb7a44f938ad19f304cee241c
+run_name: linear_regression
+run_uuid: 6f84b64bb7a44f938ad19f304cee241c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728907148759
+status: 3
+tags: []
+user_id: codespace

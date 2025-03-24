@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/defbab2f09c5456b803f4d668f5ce3c4/artifacts
+end_time: 1728978453598
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: defbab2f09c5456b803f4d668f5ce3c4
+run_name: enthused-quail-81
+run_uuid: defbab2f09c5456b803f4d668f5ce3c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728978450106
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/b41022484fba4c16a9d2e99d82da8beb/artifacts
+deleted_time: 1727088480202
+end_time: 1725439655559
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: b41022484fba4c16a9d2e99d82da8beb
+run_name: upbeat-whale-954
+run_uuid: b41022484fba4c16a9d2e99d82da8beb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725439629767
+status: 4
+tags: []
+user_id: codespace

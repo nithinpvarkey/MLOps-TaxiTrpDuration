@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/816aed0c2bc9451f8bb381257a0a3e70/artifacts
+deleted_time: 1727088480202
+end_time: 1725439763062
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 816aed0c2bc9451f8bb381257a0a3e70
+run_name: dazzling-moose-374
+run_uuid: 816aed0c2bc9451f8bb381257a0a3e70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725439756394
+status: 4
+tags: []
+user_id: codespace

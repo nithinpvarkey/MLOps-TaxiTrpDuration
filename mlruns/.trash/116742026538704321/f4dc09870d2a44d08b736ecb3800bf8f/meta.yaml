@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/f4dc09870d2a44d08b736ecb3800bf8f/artifacts
+deleted_time: 1727088480202
+end_time: 1727088430436
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: f4dc09870d2a44d08b736ecb3800bf8f
+run_name: awesome-boar-866
+run_uuid: f4dc09870d2a44d08b736ecb3800bf8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727088392804
+status: 3
+tags: []
+user_id: codespace

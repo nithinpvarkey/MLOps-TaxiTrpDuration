@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/0aa215a8e38a4757baaae720b09b403c/artifacts
+deleted_time: 1727088480202
+end_time: 1727082286937
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 0aa215a8e38a4757baaae720b09b403c
+run_name: skittish-hog-921
+run_uuid: 0aa215a8e38a4757baaae720b09b403c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727082249302
+status: 3
+tags: []
+user_id: codespace

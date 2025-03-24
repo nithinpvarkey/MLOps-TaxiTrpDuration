@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/02022914ffac4773b7d17401a63f6606/artifacts
+deleted_time: 1727088480202
+end_time: 1725620850564
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 02022914ffac4773b7d17401a63f6606
+run_name: magnificent-zebra-97
+run_uuid: 02022914ffac4773b7d17401a63f6606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725620843089
+status: 3
+tags: []
+user_id: codespace

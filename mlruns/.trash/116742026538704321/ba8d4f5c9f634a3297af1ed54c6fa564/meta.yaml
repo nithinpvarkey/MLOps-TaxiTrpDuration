@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/ba8d4f5c9f634a3297af1ed54c6fa564/artifacts
+deleted_time: 1727088480202
+end_time: 1727088426715
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: ba8d4f5c9f634a3297af1ed54c6fa564
+run_name: flawless-elk-594
+run_uuid: ba8d4f5c9f634a3297af1ed54c6fa564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727088396505
+status: 3
+tags: []
+user_id: codespace

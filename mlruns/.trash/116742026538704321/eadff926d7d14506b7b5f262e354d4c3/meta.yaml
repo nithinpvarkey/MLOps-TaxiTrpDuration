@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/eadff926d7d14506b7b5f262e354d4c3/artifacts
+deleted_time: 1727088480202
+end_time: 1725437693303
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: eadff926d7d14506b7b5f262e354d4c3
+run_name: bright-bird-585
+run_uuid: eadff926d7d14506b7b5f262e354d4c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725437693278
+status: 3
+tags: []
+user_id: codespace

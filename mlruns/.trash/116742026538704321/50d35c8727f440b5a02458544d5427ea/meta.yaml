@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/50d35c8727f440b5a02458544d5427ea/artifacts
+deleted_time: 1727088480202
+end_time: 1726130776227
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 50d35c8727f440b5a02458544d5427ea
+run_name: receptive-mole-484
+run_uuid: 50d35c8727f440b5a02458544d5427ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726130770181
+status: 3
+tags: []
+user_id: codespace

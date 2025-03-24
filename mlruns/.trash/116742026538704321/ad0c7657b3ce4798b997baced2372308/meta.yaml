@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/ad0c7657b3ce4798b997baced2372308/artifacts
+deleted_time: 1727088480202
+end_time: 1727088279358
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: ad0c7657b3ce4798b997baced2372308
+run_name: carefree-cow-810
+run_uuid: ad0c7657b3ce4798b997baced2372308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727088240277
+status: 3
+tags: []
+user_id: codespace

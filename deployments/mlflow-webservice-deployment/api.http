@@ -1,0 +1,12 @@
+POST  http://127.0.0.1:8000/predict/
+Content-Type: application/json
+
+{
+    "trip_distance": 9.4,
+    "pickup_hour": 14,
+    "pickup_day": 2,
+    "PULocationID": 161,
+    "DOLocationID": 141,
+    "total_amount": 25.5
+}
+

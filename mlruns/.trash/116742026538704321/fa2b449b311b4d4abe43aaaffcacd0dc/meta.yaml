@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/fa2b449b311b4d4abe43aaaffcacd0dc/artifacts
+deleted_time: 1727088480202
+end_time: 1725439946085
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: fa2b449b311b4d4abe43aaaffcacd0dc
+run_name: zealous-grouse-520
+run_uuid: fa2b449b311b4d4abe43aaaffcacd0dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725439938029
+status: 3
+tags: []
+user_id: codespace

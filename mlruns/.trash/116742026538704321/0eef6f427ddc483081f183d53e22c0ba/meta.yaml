@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/0eef6f427ddc483081f183d53e22c0ba/artifacts
+deleted_time: 1727088480202
+end_time: 1726131252145
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 0eef6f427ddc483081f183d53e22c0ba
+run_name: unleashed-wasp-892
+run_uuid: 0eef6f427ddc483081f183d53e22c0ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726131232719
+status: 3
+tags: []
+user_id: codespace

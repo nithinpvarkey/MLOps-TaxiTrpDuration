@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/1908366088af476ab4bd2dfc733e4311/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: 1908366088af476ab4bd2dfc733e4311
+run_name: monumental-yak-966
+run_uuid: 1908366088af476ab4bd2dfc733e4311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728907841829
+status: 1
+tags: []
+user_id: codespace

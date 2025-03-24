@@ -1,0 +1,9 @@
+digest: 599b249f
+name: validation
+profile: '{"features_shape": [62981, 6], "features_size": 377886, "features_nbytes":
+  1511544}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 6]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "codespace", "mlflow.source.name": "/home/codespace/.local/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

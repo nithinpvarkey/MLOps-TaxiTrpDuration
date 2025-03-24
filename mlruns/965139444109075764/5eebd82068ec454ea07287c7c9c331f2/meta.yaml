@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/5eebd82068ec454ea07287c7c9c331f2/artifacts
+end_time: 1728641435475
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: 5eebd82068ec454ea07287c7c9c331f2
+run_name: gaudy-goat-180
+run_uuid: 5eebd82068ec454ea07287c7c9c331f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641432199
+status: 3
+tags: []
+user_id: codespace

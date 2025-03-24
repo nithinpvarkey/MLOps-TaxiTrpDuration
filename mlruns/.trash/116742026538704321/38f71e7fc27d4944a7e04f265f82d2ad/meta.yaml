@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/38f71e7fc27d4944a7e04f265f82d2ad/artifacts
+deleted_time: 1727088480202
+end_time: 1727082294896
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 38f71e7fc27d4944a7e04f265f82d2ad
+run_name: victorious-fly-327
+run_uuid: 38f71e7fc27d4944a7e04f265f82d2ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727082292958
+status: 3
+tags: []
+user_id: codespace

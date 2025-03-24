@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/84a0bbb5ab444f56859a6f0c2a9f2c02/artifacts
+deleted_time: 1727088480202
+end_time: 1725439467511
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 84a0bbb5ab444f56859a6f0c2a9f2c02
+run_name: gaudy-smelt-65
+run_uuid: 84a0bbb5ab444f56859a6f0c2a9f2c02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725439454194
+status: 3
+tags: []
+user_id: codespace

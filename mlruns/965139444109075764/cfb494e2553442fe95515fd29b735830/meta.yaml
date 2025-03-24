@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/cfb494e2553442fe95515fd29b735830/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: cfb494e2553442fe95515fd29b735830
+run_name: fearless-mule-669
+run_uuid: cfb494e2553442fe95515fd29b735830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728905032920
+status: 1
+tags: []
+user_id: codespace

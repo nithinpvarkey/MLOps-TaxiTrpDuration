@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/0c9975d9a80c4aa3a985b20fe940c1a6/artifacts
+deleted_time: 1727088480202
+end_time: 1725439984375
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 0c9975d9a80c4aa3a985b20fe940c1a6
+run_name: nosy-bee-607
+run_uuid: 0c9975d9a80c4aa3a985b20fe940c1a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725439982422
+status: 3
+tags: []
+user_id: codespace

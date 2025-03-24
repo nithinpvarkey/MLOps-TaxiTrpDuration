@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/fa159a660f754c698b55983289c4455f/artifacts
+end_time: 1728978450088
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: fa159a660f754c698b55983289c4455f
+run_name: puzzled-panda-334
+run_uuid: fa159a660f754c698b55983289c4455f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728978440792
+status: 3
+tags: []
+user_id: codespace

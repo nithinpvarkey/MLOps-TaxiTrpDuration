@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/6e2b4716d94f4164835d6f0c2ffc1aad/artifacts
+deleted_time: 1727088480202
+end_time: 1725614531367
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 6e2b4716d94f4164835d6f0c2ffc1aad
+run_name: nimble-cod-288
+run_uuid: 6e2b4716d94f4164835d6f0c2ffc1aad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725614521178
+status: 3
+tags: []
+user_id: codespace

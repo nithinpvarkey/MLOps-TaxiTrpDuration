@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/116742026538704321
+creation_time: 1725436469779
+experiment_id: '116742026538704321'
+last_update_time: 1727088480202
+lifecycle_stage: deleted
+name: taxi-ride-duration
+tags: {}

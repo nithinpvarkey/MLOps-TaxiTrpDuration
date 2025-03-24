@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/208f7dc63c95493897c2e1cfea649dd3/artifacts
+deleted_time: 1727088480202
+end_time: 1725439629745
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 208f7dc63c95493897c2e1cfea649dd3
+run_name: intelligent-rook-957
+run_uuid: 208f7dc63c95493897c2e1cfea649dd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725439620582
+status: 3
+tags: []
+user_id: codespace

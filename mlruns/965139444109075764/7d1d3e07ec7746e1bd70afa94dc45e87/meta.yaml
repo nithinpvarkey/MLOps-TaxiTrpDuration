@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/7d1d3e07ec7746e1bd70afa94dc45e87/artifacts
+end_time: 1728891269605
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: 7d1d3e07ec7746e1bd70afa94dc45e87
+run_name: clean-hawk-375
+run_uuid: 7d1d3e07ec7746e1bd70afa94dc45e87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728891266487
+status: 3
+tags: []
+user_id: codespace

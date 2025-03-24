@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730135668490
+current_stage: Production
+description: new york taxi trip duration - xgboost 2
+last_updated_timestamp: 1730137977916
+name: NYC-TRIP-DURATION
+run_id: 49cde9daddef4338a3a23a12f1283a26
+run_link: ''
+source: mlflow-artifacts:/965139444109075764/49cde9daddef4338a3a23a12f1283a26/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/965139444109075764/49cde9daddef4338a3a23a12f1283a26/artifacts/model
+user_id: null
+version: 2

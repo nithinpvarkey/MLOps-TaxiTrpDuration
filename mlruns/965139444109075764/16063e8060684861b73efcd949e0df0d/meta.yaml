@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/16063e8060684861b73efcd949e0df0d/artifacts
+end_time: 1738736707731
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: 16063e8060684861b73efcd949e0df0d
+run_name: stylish-ox-975
+run_uuid: 16063e8060684861b73efcd949e0df0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738736702109
+status: 3
+tags: []
+user_id: codespace

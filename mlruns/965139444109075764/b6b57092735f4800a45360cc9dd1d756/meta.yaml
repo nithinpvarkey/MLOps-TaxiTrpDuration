@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/b6b57092735f4800a45360cc9dd1d756/artifacts
+end_time: 1738736710794
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: b6b57092735f4800a45360cc9dd1d756
+run_name: bold-deer-10
+run_uuid: b6b57092735f4800a45360cc9dd1d756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738736707746
+status: 3
+tags: []
+user_id: codespace

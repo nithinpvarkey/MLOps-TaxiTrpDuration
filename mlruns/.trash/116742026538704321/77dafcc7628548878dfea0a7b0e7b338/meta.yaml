@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/77dafcc7628548878dfea0a7b0e7b338/artifacts
+deleted_time: 1727088480202
+end_time: 1725439936608
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 77dafcc7628548878dfea0a7b0e7b338
+run_name: learned-donkey-184
+run_uuid: 77dafcc7628548878dfea0a7b0e7b338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725439936583
+status: 3
+tags: []
+user_id: codespace

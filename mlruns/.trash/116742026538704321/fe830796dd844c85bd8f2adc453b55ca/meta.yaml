@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/fe830796dd844c85bd8f2adc453b55ca/artifacts
+deleted_time: 1727088480202
+end_time: 1725436471661
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: fe830796dd844c85bd8f2adc453b55ca
+run_name: traveling-stork-396
+run_uuid: fe830796dd844c85bd8f2adc453b55ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725436471634
+status: 3
+tags: []
+user_id: codespace

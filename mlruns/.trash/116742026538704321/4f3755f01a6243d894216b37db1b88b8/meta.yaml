@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/4f3755f01a6243d894216b37db1b88b8/artifacts
+deleted_time: 1727088480202
+end_time: 1725439756369
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 4f3755f01a6243d894216b37db1b88b8
+run_name: angry-mare-396
+run_uuid: 4f3755f01a6243d894216b37db1b88b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725439728883
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/24ee0d0054f14b2caf3156bce5972572/artifacts
+deleted_time: 1727088480202
+end_time: 1725439716326
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 24ee0d0054f14b2caf3156bce5972572
+run_name: amazing-stoat-121
+run_uuid: 24ee0d0054f14b2caf3156bce5972572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725439703741
+status: 3
+tags: []
+user_id: codespace

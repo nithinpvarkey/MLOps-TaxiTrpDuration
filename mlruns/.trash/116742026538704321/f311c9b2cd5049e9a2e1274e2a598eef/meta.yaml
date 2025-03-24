@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/f311c9b2cd5049e9a2e1274e2a598eef/artifacts
+deleted_time: 1727088480202
+end_time: 1726131257569
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: f311c9b2cd5049e9a2e1274e2a598eef
+run_name: wistful-bug-601
+run_uuid: f311c9b2cd5049e9a2e1274e2a598eef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726131252167
+status: 3
+tags: []
+user_id: codespace

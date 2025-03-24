@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/f5e60cefe4e84a4ea2f2dcddea9e7e14/artifacts
+deleted_time: 1727088480202
+end_time: 1726131264249
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: f5e60cefe4e84a4ea2f2dcddea9e7e14
+run_name: traveling-swan-19
+run_uuid: f5e60cefe4e84a4ea2f2dcddea9e7e14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726131258049
+status: 3
+tags: []
+user_id: codespace

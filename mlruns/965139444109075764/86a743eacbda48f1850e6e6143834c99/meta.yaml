@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/86a743eacbda48f1850e6e6143834c99/artifacts
+end_time: 1728641448212
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: 86a743eacbda48f1850e6e6143834c99
+run_name: thundering-crow-647
+run_uuid: 86a743eacbda48f1850e6e6143834c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641435490
+status: 3
+tags: []
+user_id: codespace

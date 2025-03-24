@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/965139444109075764
+creation_time: 1727092910601
+experiment_id: '965139444109075764'
+last_update_time: 1727092910601
+lifecycle_stage: active
+name: NYCtaxi-ride-duration

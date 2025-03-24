@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/5a121ea877ac418b9cf6f9a86845522e/artifacts
+deleted_time: 1727088480202
+end_time: 1725614521162
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: 5a121ea877ac418b9cf6f9a86845522e
+run_name: calm-stork-186
+run_uuid: 5a121ea877ac418b9cf6f9a86845522e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725614510692
+status: 3
+tags: []
+user_id: codespace

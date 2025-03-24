@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116742026538704321/ff9b8f6b7e40406a8483e82b73ed053a/artifacts
+deleted_time: 1727088480202
+end_time: null
+entry_point_name: ''
+experiment_id: '116742026538704321'
+lifecycle_stage: deleted
+run_id: ff9b8f6b7e40406a8483e82b73ed053a
+run_name: hilarious-bug-196
+run_uuid: ff9b8f6b7e40406a8483e82b73ed053a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726130776247
+status: 1
+tags: []
+user_id: codespace

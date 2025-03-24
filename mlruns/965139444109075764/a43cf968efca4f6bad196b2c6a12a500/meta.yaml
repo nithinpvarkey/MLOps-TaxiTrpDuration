@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/a43cf968efca4f6bad196b2c6a12a500/artifacts
+end_time: 1728904988941
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: a43cf968efca4f6bad196b2c6a12a500
+run_name: glamorous-snake-905
+run_uuid: a43cf968efca4f6bad196b2c6a12a500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728904982913
+status: 3
+tags: []
+user_id: codespace

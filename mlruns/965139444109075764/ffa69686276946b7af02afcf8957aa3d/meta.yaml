@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/ffa69686276946b7af02afcf8957aa3d/artifacts
+end_time: 1728641170649
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: ffa69686276946b7af02afcf8957aa3d
+run_name: calm-wolf-137
+run_uuid: ffa69686276946b7af02afcf8957aa3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641170621
+status: 3
+tags: []
+user_id: codespace

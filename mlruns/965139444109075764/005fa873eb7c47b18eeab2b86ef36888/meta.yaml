@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/005fa873eb7c47b18eeab2b86ef36888/artifacts
+end_time: 1728907566732
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: 005fa873eb7c47b18eeab2b86ef36888
+run_name: casual-ant-885
+run_uuid: 005fa873eb7c47b18eeab2b86ef36888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728907559600
+status: 3
+tags: []
+user_id: codespace

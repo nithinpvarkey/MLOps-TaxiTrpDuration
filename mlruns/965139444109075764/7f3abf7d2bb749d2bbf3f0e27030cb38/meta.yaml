@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965139444109075764/7f3abf7d2bb749d2bbf3f0e27030cb38/artifacts
+end_time: 1728904982896
+entry_point_name: ''
+experiment_id: '965139444109075764'
+lifecycle_stage: active
+run_id: 7f3abf7d2bb749d2bbf3f0e27030cb38
+run_name: fearless-lark-111
+run_uuid: 7f3abf7d2bb749d2bbf3f0e27030cb38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728904959507
+status: 3
+tags: []
+user_id: codespace
