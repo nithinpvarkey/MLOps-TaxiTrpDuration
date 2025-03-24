@@ -173,3 +173,5 @@ deployments/mlflow-webservice-deployment/.ipynb_checkpoints
 deployments/mlflow-webservice-deployment/mlartifacts
 deployments/mlflow-webservice-deployment/mlruns
 deployments/mlflow-webservice-deployment/venv
+
+mlflow.db
